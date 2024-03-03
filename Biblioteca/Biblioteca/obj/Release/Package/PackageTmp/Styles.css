@@ -1,0 +1,86 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Formulario {
+    display: flex;
+    flex-wrap: wrap;
+    background: #24303c;
+    width: 94%;
+    padding-top: 2px;
+    margin-top: 30px;
+    border-radius: 4px;
+    color: white;
+    font-size: 17px;
+    height: 724px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.controls {
+    width: 90%;
+    padding: 7px;
+    border-radius: 6px;
+    margin-bottom: 5px;
+}
+
+.Carreras {
+    width: 70%;
+    padding: 7px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+
+.boton {
+    width: 30%;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 800;
+    margin: 16px 0;
+    margin: auto;
+    background-color: black;
+    color: white;
+}
+
+.divCar {
+    padding: 0px;
+}
+
+.Field {
+    display: flex;
+    flex-wrap: wrap;
+    background: #24303c;
+    width: 93%;
+    font-size: 1.6em;
+    padding: 5px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 4px;
+    color: white;
+}
+
+form {
+    margin: auto;
+    margin-top: 0;
+    background-color: darkgray;
+    padding-bottom: 35px;
+}
+
+.auto-style1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.auto-style3 {
+    font-size: small;
+    font-weight: normal;
+}

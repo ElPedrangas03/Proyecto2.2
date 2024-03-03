@@ -1,0 +1,9 @@
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\bin\Release\Datos.dll
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\bin\Release\Datos.pdb
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\bin\Release\Modelos.dll
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\bin\Release\Modelos.pdb
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\obj\Release\Datos.csproj.Up2Date
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\obj\Release\Datos.dll
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Datos\obj\Release\Datos.pdb

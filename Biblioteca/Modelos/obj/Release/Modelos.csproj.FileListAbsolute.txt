@@ -1,0 +1,6 @@
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Modelos\bin\Release\Modelos.dll
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Modelos\bin\Release\Modelos.pdb
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Modelos\obj\Release\Modelos.csproj.AssemblyReference.cache
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Modelos\obj\Release\Modelos.dll
+C:\Users\ElPedrangas03\Desktop\Buenoxd\Biblioteca\Modelos\obj\Release\Modelos.pdb
